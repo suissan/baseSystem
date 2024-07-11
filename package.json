@@ -5,6 +5,9 @@
     "puppeteer": "^22.12.1",
     "request": "^2.88.2"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "name": "base-system",
   "version": "1.0.0",
   "description": "ベースブレッドの管理システム",
